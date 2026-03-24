@@ -1,4 +1,4 @@
-# Michelle Li — Functional Safety Engineer
+# Michelle Li — System Safety Engineer
 
 Staff-level safety engineer with 20+ years of experience across **L2 to L4 autonomous vehicles**, **eVTOL**, **part 25, 23, 29, 33 aerospace**, and **defense**. 
 - Deep expertise in CFR Part 25.1309, Part 23.1309, Part 29.1309, ARP4754A, ARP4761, DO-178B/C, DO-254,  DO-297, MIL-STD-882D, ISO 26262. 
