@@ -20,7 +20,7 @@ ISO 26262 ASIL D lifecycle ownership, ISO 21448 application,  and safety case de
 |---|---|---|
 | **Tesla** | Staff Engineer — Functional Safety (L4 AV Braking, EPB, ABS) | 2024 – 2026 |
 | **Archer Aviation** | Staff System Safety Engineer (eVTOL State Estimation and FCS) | 2023 - 2024|
-| **Aviage Systems** (GE & SAVIC JV) | Principal Engineer & Technical Manager (IMA Systems) | 2010 – 2023 |
+| **Aviage Systems** (GE & SAVIC JV) | Principal System and Safety Engineer & Technical Manager (IMA Systems) | 2010 – 2023 |
 | **GE Aviation** | Senior Flight Safety Engineer (JSF F-35) | 2007 – 2010 |
 | **BAE Systems** | Principal System Safety Engineer (FADEC, Flight Control) | 2003 – 2007 |
 | **Goodrich** | Senior System Safety Engineer | 2002 – 2003 |
